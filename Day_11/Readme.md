@@ -41,7 +41,7 @@ Submit your solution before midnight! ⏳
 - Use a dictionary to map emojis to moods!
 - Think about how you can extend this for more emojis in the future. 💡
 
-**To `run` this Streamlit app, write:**  
+**To `run` this Streamlit app, write in cmd**  
 
 ```python
 streamlit run main.py
