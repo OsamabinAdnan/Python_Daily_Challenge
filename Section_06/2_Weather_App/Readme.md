@@ -53,7 +53,7 @@ python main.py
 
 ## Sample Output
 
-[Sample Output](Images/image.png)
+![Output](Images/image.png)
 
 ## Weather Information Displayed
 
