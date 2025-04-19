@@ -30,7 +30,7 @@ A simple Python script that simulates rolling a six-sided dice. It keeps rolling
 
 > Replace the image path below with your screenshot or terminal output photo.
 
-![Dice Roll Output](output.png)
+![Dice Roll Example](Images/output.png)
 
 ---
 
@@ -49,11 +49,6 @@ A simple Python script that simulates rolling a six-sided dice. It keeps rolling
 
 ---
 
-## ✏️ Example
-
-![Dice Roll Example](Images/output.png)
-
----
 
 ## 💡 Customization Ideas
 
