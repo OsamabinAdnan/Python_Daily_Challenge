@@ -1,0 +1,15 @@
+What is the main purpose of the scikit-learn library in Python? | Web development | Data visualization | Networking | Machine learning algorithms
+Which of the following is used for building deep learning models in Python? | NumPy | Flask | Selenium | TensorFlow
+In which format is training data usually stored for machine learning tasks in Python? | PNG | MP3 | EXE | CSV
+What does the .fit() function do in most ML models in Python? | Tests the model | Visualizes the data | Cleans the data | Trains the model
+Which library is commonly used for natural language processing in Python? | Keras | pandas | Matplotlib | NLTK
+What is the output of a classification model? | Continuous value | Clusters | Random number | Discrete label
+Which Python library is best for handling large datasets for AI models? | Requests | NumPy | Matplotlib | pandas
+Which method is used to prevent overfitting in machine learning models? | Scaling | Normalization | Parsing | Regularization
+What is the role of activation functions in neural networks? | Speed up training | Help visualize loss | Reduce overfitting | Introduce non-linearity
+What type of learning involves labeled data? | Unsupervised learning | Reinforcement learning | Semi-supervised learning | Supervised learning
+Which module in Python can be used to serialize a machine learning model? | math | requests | random | pickle
+What is the default kernel used by SVM in scikit-learn? | Linear | Polynomial | Sigmoid | RBF
+In AI, what does the term “epoch” refer to? | A type of neural network | A single run of model evaluation | A weight update step | A full pass over the training data
+Which of the following is a Python-based open-source framework for model deployment? | NumPy | Flask | TensorBoard | Streamlit
+What is the primary goal of feature engineering in AI? | Remove missing data | Optimize GPU usage | Compile the model | Create better input variables
