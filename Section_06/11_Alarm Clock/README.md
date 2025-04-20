@@ -15,7 +15,7 @@ A simple command-line Python alarm clock that plays a sound when the current tim
 ---
 
 ## 📦 Project Structure
-
+```bash
   alarm_clock/
   ├── Assets/
   │   └── alarm.wav        # Alarm sound file
@@ -24,7 +24,7 @@ A simple command-line Python alarm clock that plays a sound when the current tim
   ├── pyproject.toml       # Project metadata and dependencies (managed by uv)
   ├── README.md            # This file
   └── screenshots/         # Optional screenshot folder
-
+```
  
 ---
 
